@@ -6,14 +6,16 @@
 
 ## Download
 
-**Latest version: v1.1** (Oct 3, 2026)
+**Latest version: v1.2** (Oct 3, 2026)
 
-- [VertRunner_v1.1_no-install.zip](https://github.com/codenomics/VertRunner/releases/download/v1.1/VertRunner_v1.1_no-install.zip) - 68 KB
-- [VertRunner_v1.1_Setup.exe](https://github.com/codenomics/VertRunner/releases/download/v1.1/VertRunner_v1.1_Setup.exe) - 133 KB
+- [VertRunner_v1.2_no-install.zip](https://github.com/codenomics/VertRunner/releases/download/v1.2/VertRunner_v1.2_no-install.zip) - 72 KB
+- [VertRunner_v1.2_Setup.exe](https://github.com/codenomics/VertRunner/releases/download/v1.2/VertRunner_v1.2_Setup.exe) - 136 KB
 
-What's new in v1.1:
+What's new in v1.2:
 
-- The window now snaps to the screen edges: drag it to the top to maximize, or to a side to fill half the screen
+- VertRunner now checks GitHub for a newer version when it starts and offers to update
+- Update now downloads and runs the new installer for you (installed copies)
+- New Updates button at the bottom to check any time, and to turn the startup check off
 
 Older versions are on the [Releases page](https://github.com/codenomics/VertRunner/releases).
 
@@ -98,6 +100,11 @@ GOOD TO KNOW
 ------------
 - "N" editions of Windows need the Media Feature Pack (Settings > Apps >
   Optional features) - VertRunner tells you if it's missing.
+- Updates: when VertRunner starts it checks GitHub for a newer version (it only
+  reads the public release page; nothing is sent). If you used the installer,
+  Update now downloads and runs the new installer for you. If you use the
+  no-install zip, it opens the download page instead. The Updates button at
+  the bottom checks on demand, and can turn the startup check off.
 - Settings are kept in %APPDATA%\VertRunner\settings.txt.
 - If something goes wrong, VertRunner-log.txt next to VertRunner.exe says what.
 - To remove VertRunner: delete its folder, plus %APPDATA%\VertRunner.
