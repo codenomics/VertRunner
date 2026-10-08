@@ -6,15 +6,15 @@
 
 ## Download
 
-**Latest version: v1.3** (Oct 8, 2026)
+**Latest version: v1.4** (Oct 8, 2026)
 
-- [VertRunner_v1.3_no-install.zip](https://github.com/codenomics/VertRunner/releases/download/v1.3/VertRunner_v1.3_no-install.zip) - 72 KB
-- [VertRunner_v1.3_Setup.exe](https://github.com/codenomics/VertRunner/releases/download/v1.3/VertRunner_v1.3_Setup.exe) - 136 KB
-- [VertRunner_v1.3_source.zip](https://github.com/codenomics/VertRunner/releases/download/v1.3/VertRunner_v1.3_source.zip) - 64 KB
+- [VertRunner_v1.4_no-install.zip](https://github.com/codenomics/VertRunner/releases/download/v1.4/VertRunner_v1.4_no-install.zip) - 72 KB
+- [VertRunner_v1.4_Setup.exe](https://github.com/codenomics/VertRunner/releases/download/v1.4/VertRunner_v1.4_Setup.exe) - 136 KB
+- [VertRunner_v1.4_source.zip](https://github.com/codenomics/VertRunner/releases/download/v1.4/VertRunner_v1.4_source.zip) - 64 KB
 
-What's new in v1.3:
+What's new in v1.4:
 
-- No app changes. Uploading Code**
+- updater versioning fix**
 
 Older versions are on the [Releases page](https://github.com/codenomics/VertRunner/releases).
 
